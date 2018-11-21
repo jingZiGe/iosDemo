@@ -1,0 +1,6 @@
+framework module Pods_ECMPMobile {
+  umbrella header "Pods-ECMPMobile-umbrella.h"
+
+  export *
+  module * { export * }
+}
